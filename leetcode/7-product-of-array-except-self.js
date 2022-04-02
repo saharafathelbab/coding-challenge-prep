@@ -1,5 +1,7 @@
 // leetcode problem: https://leetcode.com/problems/product-of-array-except-self/
 
+// helpful video: https://youtu.be/bNvIQI2wAjk
+
 /**
  * @param {number[]} nums
  * @return {number[]}
