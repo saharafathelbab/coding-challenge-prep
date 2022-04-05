@@ -68,7 +68,7 @@ var hasCycle = function(head) {
         fast = fast.next.next;
         slow = slow.next;
         
-        if(fast === slow) return true;
+        if(fast === slow) return true; // if fast + slow meet = that means there is a way to get to a previous point by cycling through
     }
     
     return false;
